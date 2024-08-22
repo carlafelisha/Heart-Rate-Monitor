@@ -1,10 +1,10 @@
-### Heartbeat Hero Project README
+## Heartbeat Hero Project README
 
 ---
 
 #### Overview
 
-The Heartbeat Hero project involves a series of Arduino files that work together to read and process heart rate data from a Pulse Sensor. The project displays heart rate information on an LCD screen and provides feedback based on the measured BPM (beats per minute). The files include code for handling interrupts, serial communication, and managing LCD display output.
+The Heartbeat Hero project involves a series of Arduino files that work together to read and process heart rate data from a Pulse Sensor. The project displays heart rate information on an LCD screen and provides feedback based on the measured BPM (beats per minute). The files include code for handling interrupts, serial communication, and managing LCD display output. This was done in collaboration with my group members from BN2111 Biomedical Engineering Principles and Practice II.
 
 #### Files Description
 
